@@ -5,8 +5,8 @@ import {
   Navigate,
 } from "react-router-dom";
 
-import AuthPage from "./pages/AuthPage";
-import DashboardPage from "./pages/DashboardPage";
+import AuthPage from "./pages/AuthPage.jsx";
+import DashboardPage from "./pages/DashboardPage.jsx";
 
 function App() {
   const token =
